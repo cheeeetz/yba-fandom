@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+ <head>
+ <title>Гиперсфлки></title>
+</head>
+<body>
+<p>
+<BUTTON>
+ <img src="img17.jpg"; style="width;400px ; height:250px">
+ 
+  <br> Начальная страница
+  </BUTTON>
+</p>
+
+<p><input type="text" maxlength="3"></p> 
+
+ <p>Имя <input type="text"placeholder="Введите имя"> </p>
+
+   <p>Номер телефона<input type="text" size="11"</p>
+
+   <p>Секретное слово <input type="text" value></p> 
+   <p>Пароль <input type="password" size="8"></p>
+ <p> Какие по вашему мнению саыме красивые города мира <br>
+ <input name="c2" id="q1" type="checkbox">
+ <label for="q1">Калининград</label><br>
+ <input name="c2 id="q2 type="checkbox">
+ <label for=" q2">Париж<br></label>
+ <input name="c2" id="q3" type="checkbox"> <label for="q3">Cанктпетербург</label>
+ <p> Вам нравится радио шансон?<br>
+ <input type=radio name="a1"
+ checked> Лучше не может быть<br>
+ <input type =radio name="a1"> Всегда слушаю <br>
+ <input type=radio name="a1">Есть и получше <br>
+ </p>
+ <input type="reset" value="Отчистить">
+ <input type="sumbit" value="Оправить">
+ <input type="batton" value="Проверить">
+
+ <input type="file" name="ЗАГРУЗИТЬ_изо">
+
+</body>
+</html>
